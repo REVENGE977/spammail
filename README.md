@@ -1,5 +1,5 @@
 # spammail
-Spam msg any gmail or yahoo emil
+Spam msg any gmail or yahoo email
 
  How To Install ?
  
