@@ -6,7 +6,6 @@ Spam msg any gmail or yahoo emil
  open your terminal and type : git clone https://github.com/troolerrrrrrr/spammail.git
 ---------------------------------------------------------
 ________________________________________________
-----------------------------------------
 How To Use ?
 It's So Easy Tool ! 
 Just Type This Command To Give The Tool Needed Permissions :
@@ -34,5 +33,4 @@ Type the message that will be written in the spam
 Step 7 -
 Type the frequency of the message
 And the spam will begin !
------------------------------------------
 ________________________________________________
