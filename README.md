@@ -1,6 +1,8 @@
 # spammail
 Spam msg any gmail or yahoo emil
+
  How To Install ?
+ 
  open your terminal and type : git clone https://github.com/troolerrrrrrr/spammail.git
 
 How To Use ?
