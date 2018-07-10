@@ -59,7 +59,7 @@ try:
         sys.stdout.flush()
     server.quit()
     print '\n Done  !!!'
-    print '                                                  BomMail :~ Enjoy :)'
+    print '                                                  spammail :~ Enjoy :)'
 except KeyboardInterrupt:
     print '[-] Canceled'
     sys.exit()
