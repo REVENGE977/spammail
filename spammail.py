@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#BomMail
+#spammail
 
 import os
 import smtplib
